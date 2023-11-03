@@ -1,0 +1,12 @@
+C:\Users\khalil\source\repos\prjBigData\prjBigData\bin\Debug\prjBigData.exe
+C:\Users\khalil\source\repos\prjBigData\prjBigData\bin\Debug\prjBigData.pdb
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.csprojAssemblyReference.cache
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.Form1.resources
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.Properties.Resources.resources
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.csproj.GenerateResource.cache
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.exe
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.pdb
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.forms.Formjoueur.resources
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.forms.Qustions.resources
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.forms.Add.resources
+C:\Users\khalil\source\repos\prjBigData\prjBigData\obj\Debug\prjBigData.forms.sugg.resources
